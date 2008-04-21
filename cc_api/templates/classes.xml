@@ -1,0 +1,5 @@
+<licenses>
+% for cl in c.classes:
+  <license id="${cl.name}">${cl.name}</license>
+% endfor
+</licenses>

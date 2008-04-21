@@ -1,0 +1,5 @@
+setuptools
+zope.interface
+zope.component
+lxml
+Pylons>=0.9.6.1

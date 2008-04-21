@@ -1,0 +1,2 @@
+recursive-include cc_api/public *
+recursive-include cc_api/templates *

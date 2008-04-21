@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/cctools/!svn/ver/3309/api/trunk/relax
+END
+issue.relax.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/cctools/!svn/ver/3309/api/trunk/relax/issue.relax.xml
+END
+licenseclass.relax.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/cctools/!svn/ver/3166/api/trunk/relax/licenseclass.relax.xml
+END
+error.relax.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/cctools/!svn/ver/3166/api/trunk/relax/error.relax.xml
+END
+questions.relax.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/cctools/!svn/ver/3166/api/trunk/relax/questions.relax.xml
+END
+classes.relax.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/cctools/!svn/ver/3166/api/trunk/relax/classes.relax.xml
+END
+locales.relax.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/cctools/!svn/ver/3166/api/trunk/relax/locales.relax.xml
+END
+licenses.relax.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/cctools/!svn/ver/3166/api/trunk/relax/licenses.relax.xml
+END
